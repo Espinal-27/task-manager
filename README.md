@@ -8,6 +8,12 @@ The application allows users to create, edit, complete, delete and filter tasks 
 
 https://espinal-27.github.io/task-manager/
 
+## Preview
+
+<p align="center">
+  <img src="task-manager.png" alt="Task Manager application preview" width="900">
+</p>
+
 ## Features
 
 - Create new tasks
